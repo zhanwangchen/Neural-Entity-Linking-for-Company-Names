@@ -34,7 +34,7 @@ saubere Semantik vorweisen. Ein Firmenname kann beispielsweise in verschiedenen 
 vorkommen: Die Ausdrücke "Dell Inc", "DELL" und "Dell Technologies” können
 die gleiche Entität bezeichnen. Außerdem kann die Erwähnung "dell" je nach Kontext verschiedene
 Bedeutungen haben. Zwei verschiedene Firmen können beide als "dell" bezeichnet
-werden. Bisher gibt es nur wenig Forschung zu Named Entity Linking von Firmennamen.
+werden. Bisher gibt es nur wenig Forschung zu Named Entity Linking von Firmennamen.  
 In dieser Arbeit untersuchen wir die Leistung neuronaler Netze für Entity Linking von
 Firmennamen. Wir untersuchen die Auswirkungen verschiedener neuronaler Komponenten,
 die in aktuellen neuronalen Entity-Linking-Systemen verwendet werden, z.B. Mention Embedding,
