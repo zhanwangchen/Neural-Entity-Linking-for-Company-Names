@@ -11,7 +11,7 @@ for instance occur in variations: a list of company names might contain "Dell In
 company might also be referred to as "DELL", "Dell Technologies". Furthermore, the named
 entity "dell" may have different meanings depending on the context. Two different companies
 may both be referred to by the word "dell". There is little research specifically on company
-named entity linking.
+named entity linking.    
 In this work, we study the performance of neural networks for entity linking of company
 names. We examine the impact of different neural components used in current neural entity
 linking systems such as mention embedding, entity embedding, attention mechanism in candidate
