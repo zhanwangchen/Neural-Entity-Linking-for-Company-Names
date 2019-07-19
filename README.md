@@ -21,8 +21,8 @@ Company name related entity linking methods will be analyzed, such as how to gen
 alias of the company name, how to measure the ambiguity of company named entities and
 possible reasons for incorrect disambiguation of a company named entity.
 
-German summary
-Zusammenfassung
+German summary  
+Zusammenfassung  
 Entity Linking ist die Aufgabe, Erwähnungen von Entitäten in Text mit den entsprechenden
 Entitäten in einer Datenbank zu verknüpfen. Entity Linking ist für viele NLP-Aufgaben
 unerlässlich, so wie bei der Verbesserung der Leistung beim Aufbau von Wissensnetzwerken,
